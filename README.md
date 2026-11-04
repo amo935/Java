@@ -4,7 +4,7 @@ Repositorio personal donde recopilo el progreso de mi aprendizaje de Java.
 
 Aquí encontrarás ejercicios y prácticas que voy realizando para poner en práctica los conocimientos adquiridos.
 
-# Contenido
+## Contenido
 
 Los ejercicios están organizados por bloques temáticos:
 
@@ -15,13 +15,13 @@ Los ejercicios están organizados por bloques temáticos:
 
 _El contenido se irá ampliando a medida que avance en mi aprendizaje._
 
-# Tecnologías y herramientas
+## Tecnologías y herramientas
 * **Java:** lenguaje de programación.
 * **JDK:** entorno de desarrollo de Java.
 * **Eclipse IDE:** entorno de desarrollo utilizado para programar.
 * **Git y GitHub:** control de versiones y alojamiento del repositorio.
 
-# Objetivo
+## Objetivo
 
 Documentar mi evolución, practicar los conceptos aprendidos y mantener un registro de mi progreso como futuro desarrollador Java.
 
