@@ -8,12 +8,14 @@ Aquí encontrarás ejercicios y prácticas que voy realizando para poner en prá
 
 Los ejercicios están organizados por bloques temáticos:
 
-* **Fundamentos:** variables, entrada/salida estándar y cálculos simples.
-* **Condicionales:** ejercicios sobre estructuras de decisión.
-* **Bucles:** ejercicios sobre estructuras repetitivas.
-* **Programación orientada a objetos:** clases, objetos, herencia y otros conceptos.
+1. **Fundamentos:** conceptos básicos del lenguaje Java.
+2. **Estructuras de control:** ejercicios sobre condicionales y bucles.
+3. **Métodos:** creación y utilización de métodos.
+4. **Programación orientada a objetos:** conceptos fundamentales de la programación orientada a objetos.
+5. **Arrays y colecciones:** almacenamiento y manipulación de datos.
+6. **Otros contenidos:** nuevos conceptos y ejercicios que vaya incorporando durante mi formación.
 
-_El contenido se irá ampliando a medida que avance en mi aprendizaje._
+_El contenido se irá modificando a medida que avance en mi aprendizaje._
 
 ## Tecnologías y herramientas
 * **Java:** lenguaje de programación.
