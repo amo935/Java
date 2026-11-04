@@ -1,8 +1,8 @@
 # Aprendiendo Java
 
-Repositorio personal donde recopilo el progreso de mi aprendizaje de Java.
+Repositorio personal donde recopilo mi progreso durante el aprendizaje de Java, como parte de mis estudios del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 
-Aquí encontrarás ejercicios y prácticas que voy realizando para poner en práctica los conocimientos adquiridos.
+Aquí encontrarás ejercicios y prácticas que voy realizando para poner en práctica los conocimientos adquiridos durante mi formación.
 
 ## Contenido
 
@@ -23,6 +23,6 @@ _El contenido se irá ampliando a medida que avance en mi aprendizaje._
 
 ## Objetivo
 
-Documentar mi evolución, practicar los conceptos aprendidos y mantener un registro de mi progreso como futuro desarrollador Java.
+Documentar mi evolución, practicar los conceptos aprendidos y mantener un registro de mi progreso durante mi formación como futura desarrolladora web.
 
 _Repositorio en constante evolución._
