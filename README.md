@@ -8,10 +8,10 @@ Aquí encontrarás ejercicios y prácticas que voy realizando para poner en prá
 
 Los ejercicios están organizados por bloques temáticos:
 
-**Fundamentos:** variables, entrada/salida estándar y cálculos simples.
-**Condicionales:** ejercicios sobre estructuras de decisión.
-**Bucles:** ejercicios sobre estructuras repetitivas.
-**Programación orientada a objetos:** clases, objetos, herencia y otros conceptos.
+* **Fundamentos:** variables, entrada/salida estándar y cálculos simples.
+* **Condicionales:** ejercicios sobre estructuras de decisión.
+* **Bucles:** ejercicios sobre estructuras repetitivas.
+* **Programación orientada a objetos:** clases, objetos, herencia y otros conceptos.
 
 _El contenido se irá ampliando a medida que avance en mi aprendizaje._
 
