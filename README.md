@@ -16,10 +16,10 @@ Los ejercicios están organizados por bloques temáticos:
 _El contenido se irá ampliando a medida que avance en mi aprendizaje._
 
 # Tecnologías y herramientas
-**Java:** lenguaje de programación.
-**JDK:** entorno de desarrollo de Java.
-**Eclipse IDE:** entorno de desarrollo utilizado para programar.
-**Git y GitHub:** control de versiones y alojamiento del repositorio.
+* **Java:** lenguaje de programación.
+* **JDK:** entorno de desarrollo de Java.
+* **Eclipse IDE:** entorno de desarrollo utilizado para programar.
+* **Git y GitHub:** control de versiones y alojamiento del repositorio.
 
 # Objetivo
 
